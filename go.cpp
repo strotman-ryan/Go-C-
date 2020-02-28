@@ -2,9 +2,7 @@
 
 * created by: Ryan Strotman 
 
-* created on: 4/11/17 
-
-* 
+* created on: 4/11/17  
 
 * synopsis: the game go 
 
